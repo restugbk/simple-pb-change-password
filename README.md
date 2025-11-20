@@ -47,7 +47,7 @@ Cocok untuk dipakai di warnet, private server, atau sistem manajemen akun intern
 
 Masukkan link demo kalau ada:
 
-[🔗 Lihat Demo](http://pbid.my.id)
+[🔗 Lihat Demo](https://pbid.my.id)
 
 ---
 
