@@ -35,11 +35,19 @@ Cocok untuk dipakai di warnet, private server, atau sistem manajemen akun intern
 
 ---
 
+## 🖥️ Screenshot & Demo
+
 ### 🖼️ Screenshot
 
 ![image](https://github.com/user-attachments/assets/46fd8a2c-e55e-458d-85ca-026ea384b5b8)
 
 ---
+
+### 🌍 Live Demo
+
+Masukkan link demo kalau ada:
+
+[🔗 Lihat Demo](http://pbid.my.id)
 
 ### ☕ Buat Beli Kopi
 
@@ -48,11 +56,3 @@ Kalau projek ini membantu dan lu pengen traktir kopi:
 DANA: 0852-7272-9787
 
 ---
-
-## 🖥️ Demo & Screenshot
-
-### 🌍 Live Demo
-
-Masukkan link demo kalau ada:
-
-[🔗 Lihat Demo](http://pbid.my.id)
